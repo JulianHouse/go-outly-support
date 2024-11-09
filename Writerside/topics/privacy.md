@@ -24,7 +24,7 @@ We may use third-party services to enhance our app. These services may have acce
 
 ## Your Rights
 
-You have the right to access, update, or delete your personal information. To exercise these rights, please contact us at support@example.com.
+You have the right to access, update, or delete your personal information. To exercise these rights, please contact us at julianjh91@gmail.com.
 
 ## Changes to This Privacy Policy
 
